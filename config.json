@@ -1,0 +1,71 @@
+{
+  "code": "DGU-BIOMEDI",
+  "title": "SMASH DGU BIOMEDI",
+  "school": "동국대",
+  "fullName": "동국대학교",
+  "campusName": "동국대학교 바이오메디캠퍼스",
+  "tagline": "동국대를 부셔 (시험기간 스트레스 해소)",
+  "description": "동국대학교 바이오메디캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 동국대학교 바이오메디캠퍼스 3D 화면과 SMASH DGU BIOMEDI 제목",
+  "url": "https://hong-iron.github.io/SMASH-DGU-BIOMEDI/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 640032689
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.6784055,
+        126.8078609
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 캠퍼스 동쪽 끝 나무 줄과 풀밭 경계 자리라 확대 사진에도 지붕이 없고, 이름과 층수가 빈 대장 윤곽 두 개만 겹쳐 있다."
+    },
+    {
+      "at": [
+        37.6785032,
+        126.8069089
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 상영바이오관 서쪽 정원의 화단과 생울타리 자리라 확대 사진에 지붕이나 그림자가 없고, 대장에도 이름과 층수가 비어 있다."
+    },
+    {
+      "at": [
+        37.6772096,
+        126.8077441
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 산학협력관 및 한의학관 윤곽 안, 그 건물 옥상 위에 겹쳐 그려진 이름 없는 대장 윤곽이라 같은 건물을 두 번 그린 것이다."
+    }
+  ],
+  "look": {
+    "약학관": {
+      "style": "ribbon",
+      "wall": "#a2adb8",
+      "glass": "#375566",
+      "frame": "#d39471"
+    },
+    "고양학사": {
+      "style": "dorm",
+      "wall": "#c3b8a6",
+      "glass": "#6b7473",
+      "frame": "#bb7454"
+    },
+    "종합강의동": {
+      "style": "glass",
+      "wall": "#864a2c",
+      "glass": "#5f7368",
+      "frame": "#b8bcc4"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
