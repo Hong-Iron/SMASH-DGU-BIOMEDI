@@ -1,0 +1,34 @@
+{
+ "region": "경기 고양시 일산동구 식사동",
+ "nameEn": "Dongguk University Bio Medi Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 318,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "NONGHYUP",
+   "campus": "농협대학교",
+   "km": 6.2
+  },
+  {
+   "code": "JOONGBU-GOYANG",
+   "campus": "중부대학교 고양캠퍼스",
+   "km": 8.3
+  },
+  {
+   "code": "KAU",
+   "campus": "한국항공대학교",
+   "km": 10.1
+  },
+  {
+   "code": "SCU",
+   "campus": "서울기독대학교",
+   "km": 12.7
+  },
+  {
+   "code": "MJC",
+   "campus": "명지전문대학",
+   "km": 14.8
+  }
+ ]
+}
